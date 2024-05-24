@@ -72,7 +72,7 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 * You can use `|` to separate query and file type while searching for specific type of file. For example: `Avengers | video`
 * If you don't want to create a channel or group, use your chat ID / username as the channel ID. When you send a file to a bot, it will be saved in the database.
 
-## Command 
+## Alex Command 
 
 <details>
 <summary><b>Basic Commands</b></summary>
